@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  background-color: black;
+  color: white;
+}
+.result-text {
+  font-weight: bold;
+  font-size: 20px;
+}
+.result {
+  font-weight: bold;
+}
+.move-button {
+  background-color: transparent;
+  height: 120px;
+  width: 120px;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 50px;
+}
+.move-icons {
+  height: 60px;
+}
+.score {
+  margin-top: 60px;
+}
+.rest-button,
+.auto-play-button,
+.yes-button,
+.no-button {
+  background-color: white;
+  color: black;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.button-text {
+  margin-top: 10px;
+}
